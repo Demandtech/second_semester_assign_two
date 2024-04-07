@@ -1,0 +1,43 @@
+{
+  "books": [
+    {
+      "id": "ca13d6b3-b205-4774-9425-ad760a09c5e3",
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "author_id": ""
+    },
+    {
+      "id": "635958bf-d050-44ca-8f8c-d3475169c1e8",
+      "name": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "year": 1951,
+      "author_id": ""
+    },
+    {
+      "id": "a56d2283-4d48-4c95-95e9-5d6e649f3855",
+      "name": "Book Name",
+      "author": "Author Name",
+      "year": 1951,
+      "author_id": "uuid"
+    }
+  ],
+  "user": [
+    {
+      "username": "oovi",
+      "password": "1234"
+    },
+    {
+      "username": "ronke",
+      "password": "4321"
+    },
+    {
+      "username": "Nath",
+      "password": "1122"
+    },
+    {
+      "username": "Alabi",
+      "password": "2233"
+    }
+  ]
+}

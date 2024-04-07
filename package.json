@@ -1,0 +1,16 @@
+{
+	"name": "assignmenttwo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"dev": "nodemon index.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"uuid": "^9.0.1"
+	}
+}
